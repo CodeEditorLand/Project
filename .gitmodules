@@ -29,3 +29,9 @@ url = ssh://git@github.com/CodeEditorLand/Sun.git
 [submodule "Wind"]
 path = Wind
 url = ssh://git@github.com/CodeEditorLand/Wind.git
+[submodule "Maintain"]
+	path = Maintain
+	url = ssh://git@github.com/CodeEditorLand/Maintain.git
+[submodule "Document"]
+	path = Document
+	url = ssh://git@github.com/CodeEditorLand/Document.git
